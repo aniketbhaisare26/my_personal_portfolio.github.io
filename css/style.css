@@ -356,11 +356,12 @@ nav ul li a {
   margin: 0;
   font-size: 13px;
   line-height: 22px;
+  color:black;
 }
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color:black;
   line-height: 44px;
 }
 
